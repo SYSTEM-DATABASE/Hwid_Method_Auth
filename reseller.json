@@ -1,1 +1,29 @@
-
+{
+    "reseller": [
+        {
+            "username": "shrish",
+            "password": "$2y$10$adVCEvtCokyPR5XIi7LH0Ok0\/hmBWy2xIn\/peABPKxXYBWK3OpMdu",
+            "credit": 890
+        },
+        {
+            "username": "nexxa",
+            "password": "$2y$10$vVBTASb7uroWTU0Os2JFJuMo7fHMoQeCdw55YsZXB9ng8HhJigx5K",
+            "credit": 8999
+        },
+        {
+            "username": "sensei",
+            "password": "$2y$10$mI\/VuFFhDoKzCgeE6jKY5edNDpAZ1HVy6X8lr3Bw7hNUuP9Ld6rDO",
+            "credit": 8991
+        },
+        {
+            "username": "pritam 999",
+            "password": "$2y$10$l5JXBA6YuK\/Y2BCaVG.jiOaMyjVuYEU1SRMALDwzIXZLiYRKXzygO",
+            "credit": 1000
+        },
+        {
+            "username": "mrjackff12",
+            "password": "$2y$10$GnanhJhsyyvQpQef3P4aC.ZWWIja6OCVlhhnrXO4ebg7tPYnRgkS2",
+            "credit": 9
+        }
+    ]
+}
