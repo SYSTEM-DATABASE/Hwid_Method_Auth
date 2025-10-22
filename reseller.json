@@ -28,9 +28,9 @@
     ],
     "resellers": {
         "hunter": {
-            "password": "$2b$12$y573b76pLn0EPWt8rTEwuOBFXBAQfZZWwoRNhDaWGLpX9ijhr7xdq",
+            "password": "$2b$12$CCzGu6Jwq6stofV.dtn6.OWAn/XBWpaTuGdgDevmqnuBTMrQ3HhD2",
             "plain_password": "hunter123",
-            "credits": 0,
+            "credits": 500,
             "packages": [
                 "BASIC",
                 "BRUTAL",
