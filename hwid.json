@@ -1,3 +1,13 @@
 {
-    "admin": []
+    "admin": [
+        {
+            "username": "amit",
+            "subscription": "active",
+            "expiry": "2025-11-01",
+            "hwid": "",
+            "package": "BRUTAL",
+            "created_by": "Amith",
+            "created_on": "2025-10-22 13:20:08"
+        }
+    ]
 }
