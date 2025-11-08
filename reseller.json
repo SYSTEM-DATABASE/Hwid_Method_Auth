@@ -26,34 +26,5 @@
             "credit": 9
         }
     ],
-    "resellers": {
-        "hunter": {
-            "password": "$2b$12$95cyk7XiaH6d6E2mzptQpeytOmYZEU583/xZQ4Hh1tko.dSyRs2F.",
-            "plain_password": "hunter123",
-            "credits": 500,
-            "packages": [
-                "BASIC",
-                "BRUTAL",
-                "AIMKILL TERMINAL",
-                "AIMKILL OTHER",
-                "AIMKILL MAX",
-                "AIMSILENT",
-                "AI",
-                "BYPASS"
-            ],
-            "max_days_per_package": {
-                "BASIC": 60,
-                "BRUTAL": 60,
-                "AIMKILL TERMINAL": 60,
-                "AIMKILL OTHER": 60,
-                "AIMKILL MAX": 60,
-                "AIMSILENT": 60,
-                "AI": 60,
-                "BYPASS": 60
-            },
-            "created_at": "2025-10-22 13:04:04",
-            "is_active": true,
-            "bypass_terminal": false
-        }
-    }
+    "resellers": {}
 }
