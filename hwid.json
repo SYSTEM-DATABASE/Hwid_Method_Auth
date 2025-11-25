@@ -8,6 +8,17 @@
             "package": "BASIC",
             "created_by": "AMITH",
             "created_on": "2025-11-08 12:09:01"
+        },
+        {
+            "username": "hxc",
+            "password": "$2b$12$qiiRBrp6NPBtMcfNwadsk.EGNMDN2I7PkxtEzCjbgoLe7Fe4JGo96",
+            "plain_password": "hxc",
+            "subscription": "aimkillmax",
+            "expiry": "2099-12-31",
+            "device_id": "",
+            "package": "AIMKILL MAX",
+            "created_by": "amitnayak",
+            "created_on": "2025-11-25 23:32:44"
         }
     ]
 }
